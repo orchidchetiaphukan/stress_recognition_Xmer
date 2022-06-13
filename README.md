@@ -1,6 +1,6 @@
 # stress_recognition_Transformer
 
-This repo is the official repo for "Stress recognition using Transformer" work submitted to Electronic Governance with Emerging Technologies Conference 
+This is the official repository for "Stress recognition using Transformer" work submitted to Electronic Governance with Emerging Technologies Conference 
 (Link: http://egetc.org/).
 
 
