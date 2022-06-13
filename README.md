@@ -1,7 +1,7 @@
 # stress_recognition_Transformer
 
 This is the official repository for "Stress recognition using Transformer" work submitted to Electronic Governance with Emerging Technologies Conference 
-(Link: http://egetc.org/).
+12-14 September 2022 (Link: http://egetc.org/).
 
 
 Dataset Link: https://archive.ics.uci.edu/ml/datasets/WESAD+%28Wearable+Stress+and+Affect+Detection%29
