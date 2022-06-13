@@ -1,6 +1,6 @@
 # stress_recognition_Transformer
 
-This is the official repository for "Stress recognition using Transformer" work submitted to Electronic Governance with Emerging Technologies Conference 
+This is the official repository for "Automated stress recognition" work submitted to Electronic Governance with Emerging Technologies Conference 
 12-14 September 2022 (Link: http://egetc.org/).
 
 
